@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Demo 1 Katalon with git</description>
+   <name>Booking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>440fac78-aecd-40a6-be60-4bd51538c280</testCaseGuid>
+</TestCaseEntity>
